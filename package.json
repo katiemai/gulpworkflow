@@ -1,0 +1,24 @@
+{
+  "name": "myworkflow",
+  "version": "1.0.0",
+  "description": "Quick Workflow Setup with Gulp and BrowserSync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "setup": "npm install browser-sync gulp gulp-sass --save-dev && npm install bootstrap --save",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KatieMai",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/katiemai/gulpworkflow.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
