@@ -1,4 +1,14 @@
+@import "variables";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
-@import 'variables';
+body {
+    background-color: #da7f8f;
+}
 
-@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+// @include media-breakpoint-down(lg) {
+    // for screen lg and up
+@include media-breakpoint-between(md, lg) {
+    * {
+        background-color: #a7bbc7;
+    }
+}

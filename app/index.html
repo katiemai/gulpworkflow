@@ -1,13 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home Page</title>
+    <title>Hello</title>
     <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
-<body>
-    
+
+<body onresize="myFunction()">
+
+    <!-- <script>
+        $(window).resize(function () {
+            $("#width").text($(this).width());
+            $("#height").text($(this).height());
+        });
+
+        // document.getElementById("demo").innerHTML =
+        //     "Screen Width: " + window.innerWidth;
+    </script> -->
+
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">
+                <p id="demo"></p>
+            </h1>
+            <p class="lead"></p>
+        </div>
+    </div>
+
+    <div class="container">
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Breakpoint</th>
+                    <th scope="col">Dimensions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td scope="row"><code>xs</code></td>
+                    <td>&lt; 576px</td>
+                </tr>
+                <tr>
+                    <td scope="row"><code>sm</code></td>
+                    <td>&geq; 576px</td>
+                </tr>
+                <tr>
+                    <td scope="row"><code>md</code></td>
+                    <td>&geq; 768px</td>
+                </tr>
+                <tr>
+                    <td scope="row"><code>lg</code></td>
+                    <td>&geq; 992px</td>
+                </tr>
+                <tr>
+                    <td scope="row"><code>xl</code></td>
+                    <td>&geq; 1200px</td>
+                </tr>
+                <tr>
+                    <td scope="row"><code>xxl</code></td>
+                    <td>&geq; 1400px</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        document.getElementById("demo").innerHTML = "Screen Width: " + screen.width;
+
+        function myFunction() {
+            var w = window.outerWidth;
+            var h = window.outerHeight;
+            var txt = "Screen Width: " + w;
+            document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+
 </body>
+
 </html>
