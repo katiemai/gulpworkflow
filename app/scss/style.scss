@@ -2,13 +2,13 @@
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
 body {
-    background-color: #da7f8f;
+    background-color: #b9bbdf;
 }
 
-// @include media-breakpoint-down(lg) {
+// @include media-breakpoint-up(lg) {
     // for screen lg and up
 @include media-breakpoint-between(md, lg) {
-    * {
+    body {
         background-color: #a7bbc7;
     }
 }
