@@ -1,0 +1,101 @@
+.page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container,
+.page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container {
+  display: flex;
+  flex-direction: row; }
+  .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container * a:hover,
+  .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container * a:hover {
+    text-decoration: none !important; }
+  .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > div,
+  .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > div {
+    padding: 0rem 1rem !important; }
+  .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar,
+  .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar {
+    flex-grow: 3; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar > * a:hover,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar > * a:hover {
+      text-decoration: none !important; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar > .ui-datepicker,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar > .ui-datepicker {
+      max-width: 650px !important;
+      width: 500px; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-icon,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-icon {
+      background-image: none; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-widget-header .ui-datepicker-prev .ui-icon:hover:before,
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-widget-header .ui-datepicker-next .ui-icon:hover:before,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-widget-header .ui-datepicker-prev .ui-icon:hover:before,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-widget-header .ui-datepicker-next .ui-icon:hover:before {
+      color: var(--primary) !important; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table {
+      border-collapse: collapse !important;
+      border: 0 !important; }
+      .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table thead tr th span,
+      .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table thead tr th span {
+        font-size: 0.77rem;
+        font-weight: 500 !important;
+        height: 25px; }
+      .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table thead tr th,
+      .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table thead tr th {
+        background: #333; }
+      .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table thead tr th:nth-last-of-type(-n + 2),
+      .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table thead tr th:nth-last-of-type(-n + 2) {
+        background: var(--primary); }
+      .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table thead tr th,
+      .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table tbody td,
+      .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table thead tr th,
+      .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar table tbody td {
+        border: 1px solid rgba(0, 0, 0, 0.5) !important; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-datepicker td a,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-datepicker td a {
+      height: 45px !important; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-datepicker-other-month.ui-datepicker-unselectable.ui-state-disabled,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper .event-calendar .ui-datepicker-other-month.ui-datepicker-unselectable.ui-state-disabled {
+      background-color: #56575a !important;
+      opacity: 1; }
+  .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container,
+  .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container {
+    flex-direction: row;
+    padding-top: 0.95rem; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container > * a,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container > * a {
+      color: var(--primary); }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container > .wp-block-buttons,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container > .wp-block-buttons {
+      flex: 100%; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container > * .wp-block-button__link.has-white-color.has-text-color.has-background,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container > * .wp-block-button__link.has-white-color.has-text-color.has-background {
+      margin-top: 1rem;
+      color: #ffffff; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container > * .wp-block-button__link.has-white-color.has-text-color.has-background:hover,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container > * .wp-block-button__link.has-white-color.has-text-color.has-background:hover {
+      opacity: 0.8; }
+
+@media (max-width: 780px) {
+  .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container,
+  .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container {
+    flex-direction: column !important;
+    padding: 0.45rem 0; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar .wp-block-group__inner-container {
+      padding-top: 1rem; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper {
+      align-self: center;
+      justify-self: center; }
+      .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper > .ui-datepicker,
+      .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper > .ui-datepicker {
+        max-width: none !important;
+        width: auto !important; }
+      .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper > .items,
+      .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .calendar-wrapper > .items {
+        padding: 0 1.5rem; }
+    .page-template-default.page.page-id-713040 .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar,
+    .page-template-default.page.page-id-10099.page-parent.nowevents .post-content .wp-block-group.event-flex > .wp-block-group__inner-container > .wp-block-group.nowevents-sidebar {
+      align-self: flex-start; } }
+
+.events .event * a:hover, .items .item * a:hover {
+  text-decoration: none !important; }
+
+.events .event * a:hover h3, .items .item * a:hover h3 {
+  color: var(--primary); }
